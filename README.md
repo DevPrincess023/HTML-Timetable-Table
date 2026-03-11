@@ -17,7 +17,8 @@ Organized table header using <thead>
 HTML5
 
 Watch Preview
-https://github.com/user-attachments/assets/3eb3f489-667e-4932-89ff-d530e23cdb4f
+
+https://github.com/user-attachments/assets/3c050e70-986f-40e1-8de2-933ef63171f4
 
 
 ▶️ How to View the Project
