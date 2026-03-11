@@ -18,7 +18,8 @@ HTML5
 
 Watch Preview
 
-https://github.com/user-attachments/assets/3c050e70-986f-40e1-8de2-933ef63171f4
+https://github.com/user-attachments/assets/18ff941d-4a0b-4b32-a034-e17d83782bd5
+
 
 
 ▶️ How to View the Project
